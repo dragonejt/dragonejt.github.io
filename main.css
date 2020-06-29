@@ -1,0 +1,16 @@
+i {
+    color: #212529;
+}
+
+.cardimg {
+    width: 100%;
+    height: auto;
+}
+
+#profile {
+    margin-bottom: 0;
+}
+
+#projects {
+    background-color: #e3f2fd;
+}
