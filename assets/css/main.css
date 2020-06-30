@@ -1,0 +1,45 @@
+i {
+    color: #212529;
+}
+
+.cardimg {
+    width: 100%;
+    height: auto;
+}
+
+#profile {
+    margin-bottom: 0;
+    min-height: 600px;
+    height: 100vh;
+}
+
+#projects {
+    background-color: #e3f2fd;
+}
+
+.social {
+    font-size: 2.5rem;
+    color: #007bff;
+}
+
+.social:hover {
+    color: #0069d9;
+    transition: 0.25s;
+}
+
+span {
+    color: #007bff;
+}
+
+span:hover {
+    color: #0069d9;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #0069d9;
+}
+
+.fas {
+    font-size: 1.25rem;
+}
