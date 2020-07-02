@@ -1,5 +1,16 @@
-i {
-    color: #212529;
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: var(--nord0);
+}
+
+p {
+    color: var(--nord5);
+}
+
+hr {
+    border-top: 1px solid var(--nord4);
 }
 
 .cardimg {
@@ -9,37 +20,115 @@ i {
 
 #profile {
     margin-bottom: 0;
-    min-height: 600px;
+    min-height: 37.5rem;
     height: 100vh;
+    background: none;
+    background: url(../img/profwall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 #projects {
-    background-color: #e3f2fd;
+    background: none;
 }
 
 .social {
     font-size: 2.5rem;
-    color: #007bff;
+    color: var(--nord8);
 }
 
 .social:hover {
-    color: #0069d9;
-    transition: 0.25s;
+    color: var(--nord9);
+    transition: 0.125s;
 }
 
 span {
-    color: #007bff;
+    color: var(--nord8);
+    transition: 0.125s;
 }
 
 span:hover {
-    color: #0069d9;
+    color: var(--nord9);
+}
+
+a {
+    color: var(--nord8);
+    transition: 0.125s;
 }
 
 a:hover {
     text-decoration: none;
-    color: #0069d9;
+    color: var(--nord9);
 }
 
 .fas {
     font-size: 1.25rem;
+}
+
+.display-1 {
+    color: var(--nord6);
+}
+
+.lead {
+    color: var(--nord5);
+}
+
+.display-4 {
+    color: var(--nord8);
+}
+
+.card {
+    background-color: var(--nord6);
+}
+
+.card-title {
+    color: var(--nord0);
+}
+
+.card-subtitle {
+    color: var(--nord1);
+}
+
+.card-text {
+    color: var(--nord2);
+}
+
+.btn-primary {
+    background-color: var(--nord10);
+    transition: 0.125s;
+    color: var(--nord6);
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: var(--nord9);
+}
+
+.btn-link {
+    background-color: var(--nord6);
+    transition: 0.125s;
+    color: var(--nord10)
+}
+
+#arrowcont {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+#arrow {
+    font-size: 2.5rem;
+    color: var(--nord9);
+    transition: 0.125s;
+    position: absolute;
+    bottom: 5%;
+}
+
+#arrow:hover {
+    color: var(--nord10);
+}
+
+.btn-link:hover {
+    color: var(--nord9);
+    text-decoration: none;
 }
