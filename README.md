@@ -18,5 +18,7 @@
 - Agile Project Management (somewhat)
 - Kanban Boards
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects are pinned on my profile!
 
