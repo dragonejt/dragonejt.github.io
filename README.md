@@ -21,5 +21,3 @@
 - Kanban Boards
 
 ## Projects are pinned on my profile!
-
-[![Evan Tung's github stats](https://dragonejt.me)](https://dragonejt.me)
