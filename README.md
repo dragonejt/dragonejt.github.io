@@ -4,7 +4,7 @@
 
 ### Hey, welcome to my profile! I am Evan Tung, a Computer Science Student graduating in 2023.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Evan Tung's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord)](https://dragonejt.me)
 
 ## Skills
 - Java
