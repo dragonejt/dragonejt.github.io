@@ -13,8 +13,8 @@
 - Database: MongoDB
 - Git/GitHub
 - Bash (Terminal)
+- Project Management: Agile, Kanban Boards
 - Communication: Slack, Microsoft Teams, Zoom
 - Computer Architecture
-- Project Management: Agile, Kanban Boards
 
 ## Projects are pinned on my profile!
