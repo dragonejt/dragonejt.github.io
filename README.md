@@ -10,6 +10,7 @@
 - Java
 - JavaScript: NodeJS, React, Express
 - HTML/CSS: Bootstrap
+- Database: MongoDB
 - Git/GitHub
 - Bash (Terminal)
 - Communication: Slack, Microsoft Teams, Zoom
