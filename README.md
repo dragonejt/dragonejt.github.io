@@ -8,16 +8,12 @@
 
 ## Skills
 - Java
-- Javascript
-- HTML/CSS
-- NodeJS
-- React
-- Bootstrap
-- Git
-- GitHub (duh)
-- Slack
-- Digital Logic Design
-- Agile Project Management (somewhat)
-- Kanban Boards
+- JavaScript: NodeJS, React, Express
+- HTML/CSS: Bootstrap
+- Git/GitHub
+- Bash (Terminal)
+- Communication: Slack, Microsoft Teams, Zoom
+- Computer Architecture
+- Project Management: Agile, Kanban Boards
 
 ## Projects are pinned on my profile!
