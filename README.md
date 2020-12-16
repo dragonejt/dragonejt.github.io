@@ -1,20 +1,3 @@
-# Evan Tung (dragonejt)
+# dragonejt.me
 
-## [dragonejt.me](https://dragonejt.me)
-
-### Hey, welcome to my profile! I am Evan Tung, a Computer Science Student graduating in 2023.
-
-[![Evan Tung's github stats](https://github-readme-stats.vercel.app/api?username=dragonejt&theme=nord)](https://dragonejt.me)
-
-## Skills
-- Java
-- JavaScript: NodeJS, React, Express
-- HTML/CSS: Bootstrap
-- Database: MongoDB
-- Git/GitHub
-- Bash (Terminal)
-- Project Management: Agile, Kanban Boards
-- Communication: Slack, Microsoft Teams, Zoom
-- Computer Architecture
-
-## Projects are pinned on my profile!
+## Evan Tung's Personal Profile Website
