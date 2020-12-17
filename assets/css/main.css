@@ -30,7 +30,8 @@ hr {
     position: relative;
 }
 
-#projects {
+
+#p2 {
     background: none;
 }
 
@@ -95,15 +96,21 @@ a:hover {
     color: var(--nord2);
 }
 
-.btn-primary {
+.btn-nord {
     background-color: var(--nord10);
     transition: 0.125s;
     color: var(--nord6);
     border: none;
 }
 
-.btn-primary:hover {
+.btn-nord:hover {
     background-color: var(--nord9);
+    color: var(--nord6);
+}
+
+.btn-nord:active {
+    background-color: var(--nord9);
+    color: var(--nord6);
 }
 
 .btn-link {
@@ -132,4 +139,12 @@ a:hover {
 .btn-link:hover {
     color: var(--nord9);
     text-decoration: none;
+}
+
+#aboutxt {
+    font-size: 1.15rem;
+}
+
+#aboutlg {
+    font-size: 1.5rem;
 }
